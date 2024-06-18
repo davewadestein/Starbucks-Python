@@ -1,6 +1,9 @@
 # Starbucks-Python
-
 * my email = dave@developintelligence.com
+
+## Lunch Breaks
+* 10:30-11:00 Pacific / 1:30-2:00 Eastern
+*  12:30-1:00 Pacific / 3:30-4:00 Eastern
 
 ### How to follow along...
 * If you can download and install softare on your machine...
