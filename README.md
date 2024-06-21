@@ -2,9 +2,29 @@
 * my email = dave@developintelligence.com
 
 ## Some homework ideas...
-* create a list of words, e.g., __`"talk walk box peas lost goody".split()`__
+1. create a list of words, e.g., __`"talk walk box peas lost goody".split()`__
   * iterate thru the list and remove any words that aren't 4 letters long
   * ...or iterate thru the list and remove any words that don't have an __`a`__ or an __`o`__ in them
+2. modify the guessing game to tell the user whether their guess is "close" or not (let's say within 10 of the correct answer)
+
+```
+Enter your guess (0 to give up):  50
+Guess was too high
+Enter your guess (0 to give up):  25
+Guess was too high
+...but you're close!
+Enter your guess (0 to give up):  15
+Guess was too low
+...but you're close!
+Enter your guess (0 to give up):  20
+Guess was too low
+...but you're close!
+Enter your guess (0 to give up):  22
+Guess was too high
+...but you're close!
+Enter your guess (0 to give up):  21
+You got it!
+```
     
 ## Suggestions for next week
 * making API calls to weather app or similar
