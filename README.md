@@ -1,6 +1,11 @@
 # Starbucks-Python
 * my email = dave@developintelligence.com
 
+## Some homework ideas...
+* create a list of words, e.g., __`"talk walk box peas lost goody".split()`__
+  * iterate thru the list and remove any words that aren't 4 letters long
+  * ...or iterate thru the list and remove any words that don't have an __`a`__ or an __`o`__ in them
+    
 ## Suggestions for next week
 * making API calls to weather app or similar
 * JSON module
