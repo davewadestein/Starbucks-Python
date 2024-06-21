@@ -2,6 +2,7 @@
 * my email = dave@developintelligence.com
 
 ## Some homework ideas...
+0. Remember to write down the steps in English before coding! (First write down the steps that would be needed to tell another human how to do the task, then refine that into pseudocode, and finally, convert your pseudocode into Python.)
 1. create a list of words, e.g., __`"talk walk box peas lost goody".split()`__
   * iterate thru the list and remove any words that aren't 4 letters long
   * ...or iterate thru the list and remove any words that don't have an __`a`__ or an __`o`__ in them
