@@ -1,6 +1,9 @@
 # Starbucks-Python
 * my email = dave@developintelligence.com
 
+## 1-Question Poll for June 24, 2024
+* https://xoyondo.com/op/yeq9dsbjrd4raqn
+  
 ## Some homework ideas...
 0. Remember to write down the steps in English before coding! (First write down the steps that would be needed to tell another human how to do the task, then refine that into pseudocode, and finally, convert your pseudocode into Python.)
 1. create a list of words, e.g., __`"talk walk box peas lost goody".split()`__
