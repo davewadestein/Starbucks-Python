@@ -1,8 +1,8 @@
 # Starbucks-Python
 * my email = dave@developintelligence.com
 
-## 1-Question Poll for June 24, 2024
-* https://xoyondo.com/op/yeq9dsbjrd4raqn
+## 1-Question Poll for June 25, 2024
+* https://xoyondo.com/op/qswibvfzx0g7enf
   
 ## Some homework ideas...
 0. Remember to write down the steps in English before coding! (First write down the steps that would be needed to tell another human how to do the task, then refine that into pseudocode, and finally, convert your pseudocode into Python.)
