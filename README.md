@@ -1,6 +1,10 @@
 # Starbucks-Python
 * my email = dave@developintelligence.com
-  
+
+## More Homework ideas...
+0. See below
+1. Use a dict to count words in the input–final lab in Part 2 notebook
+   
 ## Some homework ideas...
 0. Remember to write down the steps in English before coding! (First write down the steps that would be needed to tell another human how to do the task, then refine that into pseudocode, and finally, convert your pseudocode into Python.)
 1. create a list of words, e.g., __`"talk walk box peas lost goody".split()`__
