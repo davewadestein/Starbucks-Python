@@ -1,4 +1,4 @@
-filename = input('Cound words in which file? ')
+filename = input('Count words in which file? ')
 
 wordcounts = {} # words and counts stored here
 
